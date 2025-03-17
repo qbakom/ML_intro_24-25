@@ -7,38 +7,35 @@
 
 ---> Michał Glinka
 
----> Jakub Komosa
-
----> Emilia Latko
-
-### Zespół 2
-
----> Kuba Hałaczkiewicz
-
 ---> Joanna Aszklar
 
----> Martyna Stankiewicz
+---> Piotr Cymoniuk
 
-### Zespół 3
-
----> Bartek Ząbkowski
+### Zespół 2
+---> Kuba Hałaczkiewicz
 
 ---> Basia Gawlik
 
----> Jan Szopa
+---> Michał Morzuch
+
+### Zespół 3
+---> Bartek Ząbkowski
+
+---> Jakub Rak
+
+---> Emilia Latko
 
 ### Zespół 4
 ---> Kacper Przywara
 
----> Jakub Rak
+---> Ola Kukuła
 
----> Piotr Cymoniuk
-
+---> Jan Szopa
 
 ### Zespół 5
 ---> Konrad Karpiuk
 
----> Ola Kukuła
+---> Jakub Komosa
 
----> Michał Morzuch
+---> Martyna Stankiewicz
 
