@@ -2,7 +2,7 @@
 
 [Źródło danych](https://www.kaggle.com/datasets/yasserh/loan-default-dataset)
 
-## Zespoły w 2 etapie.
+## Zespoły w 3 etapie.
 ### Zespół 1
 
 ---> Michał Glinka
