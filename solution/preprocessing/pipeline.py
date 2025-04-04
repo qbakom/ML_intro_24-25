@@ -7,8 +7,6 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 
-RANDOM_STATE = 42
-
 
 numerical_pipeline = Pipeline(steps=[
     ('imputer', SimpleImputer(strategy='median')),
@@ -30,7 +28,12 @@ categorical_pipeline_ordinal = Pipeline(steps=[
 def main():
     '''
     Data pipeline:
-    
+    1. Drop specified columns from the data
+    2. Define the categorical and numerical features
+    3. Impute missing values for numerical features using median and scale them
+    4. Impute missing values for categorical features using most frequent value
+    5. One-hot encode categorical features with low cardinality
+    6. Ordinal encode categorical features with high cardinality and scale them
     '''
 
     # Change working directory to current file
